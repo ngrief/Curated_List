@@ -7,7 +7,7 @@ I am Nathaniel Trief, a data analyst whom received the ASU Data Analysis Coding 
 
 ---
 
-## Python Homework
+## Python Projects
 - **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)** (Uses: Matplotlib, `style.use`, NumPy, Pandas, datetime, SQLAlchemy, Flask `jsonify`)
 - **[BeautySoupChallenge](https://github.com/ngrief/BeautySoupChallenge.git)**  
   **Dependencies**:  
@@ -18,7 +18,7 @@ I am Nathaniel Trief, a data analyst whom received the ASU Data Analysis Coding 
 
 ---
 
-## Class Projects
+## Team Projects
 - **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**  
   **Dependencies**:  
   - **os**, **csv**, **sys**: For file handling and system interactions.
