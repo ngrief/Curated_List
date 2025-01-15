@@ -1,4 +1,5 @@
-# Repository Categorization
+# Nathaniel Trief's Curated Repository 
+I am Nathaniel Trief, a data analyst whom received the ASU Data Analysis Coding Boot Camp Certification. Here is an assortment of different different repositories to demonstrate the variety of my skills.     
 
 ## Personal Exploration
 - **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)** (Uses: Pandas, Matplotlib, Seaborn)
