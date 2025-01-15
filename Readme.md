@@ -1,4 +1,4 @@
-# Nathaniel Trief's Curated Repository 
+# Nathaniel Trief's Curated Repositories
 I am Nathaniel Trief, a data analyst whom received the ASU Data Analysis Coding Boot Camp Certification. Here is a curated list of several of my strongest Github repositories.    
 
 ## Personal Exploration
