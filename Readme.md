@@ -1,5 +1,5 @@
 # Nathaniel Trief's Curated Repositories
-I am Nathaniel Trief, a data analyst whom received the ASU Data Analysis Coding Boot Camp Certification. Here is a curated list of several of my strongest Github repositories.    
+I am Nathaniel Trief, a data analyst whom completed the ASU Data Analysis Coding Boot Camp Certification. Here is a curated list of several of my strongest Github repositories.    
 
 ## Personal Exploration
 - **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)** (Uses: Pandas, Matplotlib, Seaborn)
