@@ -35,7 +35,8 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst seeking ca
 
 ## JavaScript Projects
 - **[belly-button-challenge](https://github.com/ngrief/belly-button-challenge.git)**  
-  **Technologies**: JavaScript, HTML, CSS
+  **Technologies**: JavaScript, HTML, CSS (Fully web deployed interactive visualization)
+  https://ngrief.github.io/belly-button-challenge/
 
 - **[leaflet-challenge](https://github.com/ngrief/leaflet-challenge.git)**  
   **Technologies**: JavaScript, GeoJSON, Leaflet.js (for location-based data visualization)
