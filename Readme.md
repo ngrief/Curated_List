@@ -2,8 +2,8 @@
 I am an Investment Manager and an ASU Bootcamp Certified Data Analyst seeking career pathways into data analysis and quantitative finance. Excited to showcase my expertise in data analysis, data visualization, web scraping, database management, and JavaScript development through a curated portfolio of projects. Each project tackles a unique challenge and solution, harnessing modern tools and frameworks.    
 
 ## Personal Exploration
-- **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)** (Uses: Pandas, Matplotlib, Seaborn)
-- **[Election](https://github.com/ngrief/Election.git)** (Uses: Pandas, Matplotlib, Seaborn)
+- **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)** (Uses: Pandas, Matplotlib, Seaborn): An analysis of California Fire Data from 1878-2023
+- **[Election](https://github.com/ngrief/Election.git)** (Uses: Pandas, Matplotlib, Seaborn): An analysis of third parties in Presidentian Elections from 1978-2020.
 
 ---
 
