@@ -11,7 +11,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst seeking ca
 
 ## Python Projects
 - **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)** (Uses: Matplotlib, `style.use`, NumPy, Pandas, datetime, SQLAlchemy, Flask `jsonify`)
-- **SQLalchemy** sucessfully deployed SQLAlchemy to streamline datbasing needs. 
+- **SQLAlchemy** sucessfully deployed to streamline datbasing needs. 
 - **[BeautySoupChallenge](https://github.com/ngrief/BeautySoupChallenge.git)**  
 - **Web Scraping** conducted to output interactive Mars data. 
   **Dependencies**:  
