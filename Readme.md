@@ -35,7 +35,8 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 
 - **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**:
   - In-depth analysis of Airbnb data using Pandas, NumPy, Matplotlib, and statistical libraries.
-
+- **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**:
+  - Utilized chart.js and leaflets to explore population and migration data. 
 - **[Crowdfunding_ETL](https://github.com/ngrief/Crowdfunding_ETL.git)**:
   - Designed and implemented an ETL pipeline to process and store crowdfunding data using Pandas, MySQL, and DataFrames.
 
