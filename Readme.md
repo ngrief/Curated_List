@@ -53,4 +53,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 ---
 
 ## Tableau Projects
--  **[Bike Data Project]( **[leaflet-challenge](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**)**:
+## 🚴‍♂️ Bike Data Project  
+
+[View the Bike Data Project on Tableau](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)
+
