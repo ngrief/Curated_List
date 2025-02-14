@@ -49,3 +49,8 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 
 - **[leaflet-challenge](https://github.com/ngrief/leaflet-challenge.git)**:
   - Location-based data visualization of seismic activity using JavaScript, GeoJSON, and Leaflet.js.
+
+---
+
+## Tableau Projects
+-  **[Bike Data Project]( **[leaflet-challenge](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**)**:
