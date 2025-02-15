@@ -30,7 +30,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
   - Automated retrieval and visualization of planetary data using BeautifulSoup, Splinter, Pandas, and Matplotlib.
 
 - **[Pymaceuticals](https://github.com/ngrief/Pymaceuticals.git)**:
-  - Python project analyzing a fictional pharmaceutical study comparing drug regimens for treating squamous cell carcinoma in mice using Pandas and Matplotlib.
+  - Python project analyzing a pharmaceutical study comparing drug regimens for treating squamous cell carcinoma in mice using Pandas and Matplotlib.
 
 ---
 
