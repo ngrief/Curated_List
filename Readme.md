@@ -29,6 +29,9 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 - **[BeautySoupChallenge](https://github.com/ngrief/BeautySoupChallenge.git)**:
   - Automated retrieval and visualization of planetary data using BeautifulSoup, Splinter, Pandas, and Matplotlib.
 
+- **[Pymaceuticals](https://github.com/ngrief/Pymaceuticals.git)**:
+  - Python project analyzing a fictional pharmaceutical study comparing drug regimens for treating squamous cell carcinoma in mice using Pandas and Matplotlib.
+
 ---
 
 ## Team Projects
@@ -36,7 +39,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 - **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**:
   - In-depth analysis of Airbnb data using Pandas, NumPy, Matplotlib, and statistical libraries.
 - **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**:
-  - Utilized chart.js and leaflets to explore population and migration data. 
+  - Utilized chart.js and leaflets to explore population and migration data.
 - **[Crowdfunding_ETL](https://github.com/ngrief/Crowdfunding_ETL.git)**:
   - Designed and implemented an ETL pipeline to process and store crowdfunding data using Pandas, MySQL, and DataFrames.
 
@@ -56,4 +59,3 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 ## 🚴‍♂️ Bike Data Project  
 
 [View the Bike Data Project on Tableau](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)
-
