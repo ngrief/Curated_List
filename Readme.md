@@ -21,16 +21,6 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 
 ---
 
-## Python Bootamp Challenges
-
-- **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)**:
-  - Built an end-to-end pipeline to query, analyze, and visualize database content via Flask APIs using SQLAlchemy, Pandas, and Matplotlib.
-
-- **[BeautySoupChallenge](https://github.com/ngrief/BeautySoupChallenge.git)**:
-  - Automated retrieval and visualization of planetary data using BeautifulSoup, Splinter, Pandas, and Matplotlib.
-
----
-
 ## Team Projects
 
 - **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**:
@@ -47,6 +37,8 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
   - Designed and implemented an ETL pipeline to process and store crowdfunding data using Pandas, MySQL, and DataFrames.
 - **[SQL-Challenge](https://github.com/ngrief/sql-challenge.git)**:
   - Created a relational PostgreSequel database including ERD diamgram and table schemas. 
+- **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)**:
+  - Built an end-to-end pipeline to query, analyze, and visualize database content via Flask APIs using Python, SQLAlchemy, Pandas, and Matplotlib.
 
 ---
 
