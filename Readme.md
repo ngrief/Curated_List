@@ -7,11 +7,11 @@ ntrief@gmail.com
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathaniel-trief-492a70b/) or reach out via email or phone for collaboration opportunities, consultations, or inquiries about my work.
 
-I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to showcase my expertise in data analysis, data visualization, web scraping, database management, and JavaScript development through a curated portfolio of projects. Experienced leader of small teams with long term goals in data analysis and quantitative research. 
+I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to showcase my expertise in data analysis, data visualization, web scraping, database management, and JavaScript development. Experienced leader of small teams seeking a data driven role in finance or technology.   
 
 ---
 
-## Personal Exploration
+## Python Data Exploration
 
 - **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)**:
   - Analysis of California Fire Data from 1878-2023 using Pandas, Matplotlib, and Seaborn.
@@ -21,16 +21,13 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 
 ---
 
-## Python Projects
+## Python Bootamp Challenges
 
 - **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)**:
   - Built an end-to-end pipeline to query, analyze, and visualize database content via Flask APIs using SQLAlchemy, Pandas, and Matplotlib.
 
 - **[BeautySoupChallenge](https://github.com/ngrief/BeautySoupChallenge.git)**:
   - Automated retrieval and visualization of planetary data using BeautifulSoup, Splinter, Pandas, and Matplotlib.
-
-- **[Pymaceuticals](https://github.com/ngrief/Pymaceuticals.git)**:
-  - Python project analyzing a pharmaceutical study comparing drug regimens for treating squamous cell carcinoma in mice using Pandas and Matplotlib.
 
 ---
 
@@ -39,13 +36,17 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 - **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**:
   - In-depth analysis of Airbnb data using Pandas, NumPy, Matplotlib, and statistical libraries.
 
----
-
-## mySql Team Projects
 - **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**:
   - Utilized chart.js and leaflets to explore population and migration data.
+
+---
+
+## SQL Projects
+
 - **[Crowdfunding_ETL](https://github.com/ngrief/Crowdfunding_ETL.git)**:
   - Designed and implemented an ETL pipeline to process and store crowdfunding data using Pandas, MySQL, and DataFrames.
+- **[SQL-Challenge](https://github.com/ngrief/sql-challenge.git)**:
+  - Created a relational PostgreSequel database including ERD diamgram and table schemas. 
 
 ---
 
@@ -60,6 +61,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
 ---
 
 ## Tableau Projects
-## 🚴‍♂️ Bike Data Project  
 
+🚴‍♂️ Bike Data Project  
 [View the Bike Data Project on Tableau](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)
+ - Tableau analysis and visualization of New York Citi Bike Data. Cleaning done in Python. 
