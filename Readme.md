@@ -37,7 +37,7 @@ I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to
   - In-depth analysis of Airbnb data using Pandas, NumPy, Matplotlib, and statistical libraries.
 
 - **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**:
-  - Utilized chart.js and leaflets to explore population and migration data.
+  - Utilized chart.js and leaflets to explore population and migration data that is converted into SQL database by MongoDB.
 
 ---
 
