@@ -7,7 +7,7 @@ ntrief@gmail.com
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathaniel-trief-492a70b/) or reach out via email or phone for collaboration opportunities, consultations, or inquiries about my work.
 
-I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to showcase my expertise in data analysis, data visualization, web scraping, database management, and JavaScript development. Experienced team leader seeking a data driven role in finance or technology.   
+I am an Investment Manager and an ASU Bootcamp Certified Data Analyst excited to showcase my expertise in data analysis, data visualization, web scraping, database management, and JavaScript development. Motivated team leader seeking a data driven role in finance or technology.   
 
 ---
 
