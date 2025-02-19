@@ -1,71 +1,59 @@
 🚀 Nathaniel Trief's Data Portfolio 📊
 
-Contact Information 📩
+## Contact Information 📩
+Nathaniel Trief  
+Email: ntrief@gmail.com  
+Phone: 480-235-6831  
+LinkedIn: [Nathaniel Trief](https://www.linkedin.com/in/nathaniel-trief-492a70b/)
 
-Nathaniel Triefntrief@gmail.com📞 480-235-6831🔗 LinkedIn
+---
 
-About Me 🌟
+## About Me 🌟
+✨ Let's Connect! ✨  
+Reach out via LinkedIn, email, or phone for exciting collaboration opportunities, consultations, or to discuss my work in data science and analytics! 🚀  
 
-✨ Let's Connect! ✨📬 Reach out via LinkedIn, email, or phone for exciting collaboration opportunities, consultations, or to discuss my work in data science and analytics! 🚀
+I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, passionate about uncovering insights through **data analysis, visualization, web scraping, database management, and JavaScript development**. I'm a motivated team leader looking for a **data-driven role in finance or technology**. 📈💡  
 
-I'm an Investment Manager and an ASU Bootcamp Certified Data Analyst, passionate about uncovering insights through data analysis, visualization, web scraping, database management, and JavaScript development. I'm a motivated team leader looking for a data-driven role in finance or technology. 📈💡
+---
 
-🐍 Python Data Exploration 📊
+## 🐍 Python Data Exploration 📊
+- 🔥 **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)**  
+  - Analyzing **California Fire Data (1878-2023)** using **Pandas, Matplotlib, and Seaborn**.
+- 🗳 **[Election](https://github.com/ngrief/Election.git)**  
+  - Investigating **third-party performance in Presidential Elections (1978-2020)** using **Pandas, Matplotlib, and Seaborn**.
 
-🔥 FireAnalyst:
+---
 
-Analyzing California Fire Data (1878-2023) using Pandas, Matplotlib, and Seaborn.
+## 🤝 Team Projects 🏆
+- 🏡 **[data-class-project1](https://github.com/ngrief/data-class-project1.git)**  
+  - **Airbnb Data Analysis** leveraging **Pandas, NumPy, Matplotlib, and statistical libraries**.
+- 🌍 **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**  
+  - **Population & Migration Data Analysis** using **chart.js and Leaflet.js**, converted into an **SQL database via MongoDB**.
 
-🗳 Election:
+---
 
-Investigating third-party performance in Presidential Elections (1978-2020) using Pandas, Matplotlib, and Seaborn.
+## 🛢 SQL Projects 💾
+- 📊 **[Crowdfunding_ETL](https://github.com/ngrief/Crowdfunding_ETL.git)**  
+  - Built an **ETL pipeline** to process and store **crowdfunding data** using **Pandas, MySQL, and DataFrames**.
+- 🏛 **[SQL-Challenge](https://github.com/ngrief/sql-challenge.git)**  
+  - Designed a **relational PostgreSQL database**, including an **ERD diagram and table schemas**.
+- 🔍 **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)**  
+  - Developed an **end-to-end pipeline** for **querying, analyzing, and visualizing** database content via **Flask APIs** using **Python, SQLAlchemy, Pandas, and Matplotlib**.
 
-🤝 Team Projects 🏆
+---
 
-🏡 data-class-project1:
+## 🎨 JavaScript Projects 🌐
+- 🦠 **[belly-button-challenge](https://github.com/ngrief/belly-button-challenge.git)**  
+  - **Interactive web visualization** exploring **microbial diversity** using **JavaScript, HTML, and CSS**.  
+  - 🎥 [Live Demo](https://ngrief.github.io/belly-button-challenge/)
+- 🌍 **[leaflet-challenge](https://github.com/ngrief/leaflet-challenge.git)**  
+  - **Location-based data visualization of seismic activity** using **JavaScript, GeoJSON, and Leaflet.js**.
 
-Airbnb Data Analysis leveraging Pandas, NumPy, Matplotlib, and statistical libraries.
+---
 
-🌍 data-class-project3:
+## 📊 Tableau Projects 🎨
+🚴‍♂️ **Bike Data Project**  
+🔗 [View the Bike Data Project on Tableau](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)  
+  - **Tableau visualization** of **New York Citi Bike Data**, with **data cleaning in Python**.
 
-Population & Migration Data Analysis using chart.js and Leaflet.js, converted into an SQL database via MongoDB.
-
-🛢 SQL Projects 💾
-
-📊 Crowdfunding_ETL:
-
-Built an ETL pipeline to process and store crowdfunding data using Pandas, MySQL, and DataFrames.
-
-🏛 SQL-Challenge:
-
-Designed a relational PostgreSQL database, including an ERD diagram and table schemas.
-
-🔍 sqlalchemy-challenge:
-
-Developed an end-to-end pipeline for querying, analyzing, and visualizing database content via Flask APIs using Python, SQLAlchemy, Pandas, and Matplotlib.
-
-🎨 JavaScript Projects 🌐
-
-🦠 belly-button-challenge:
-
-Interactive web visualization exploring microbial diversity using JavaScript, HTML, and CSS.
-
-🎥 Live Demo
-
-🌍 leaflet-challenge:
-
-Location-based data visualization of seismic activity using JavaScript, GeoJSON, and Leaflet.js.
-
-📊 Tableau Projects 🎨
-
-🚴‍♂️ Bike Data Project🔗 View the Bike Data Project on Tableau
-
-Tableau visualization of New York Citi Bike Data, with data cleaning in Python.
-
-🚀 Excited to keep exploring the world of data-driven insights and innovative problem-solving! Let’s create something amazing together! 🎯
-
-📌 How to Use This Repository
-
-This repository serves as a showcase of my data analysis, visualization, and programming projects. Feel free to explore the repositories linked above, clone them, and experiment with the code.
-
-🚀 Happy Coding! 🎯
+🚀 Excited to keep exploring the world of **data-driven insights** and **innovative problem-solving**! Let’s create something amazing together! 🎯
