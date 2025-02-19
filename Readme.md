@@ -4,8 +4,7 @@
 Nathaniel Trief  
 Email: ntrief@gmail.com  
 LinkedIn: [Nathaniel Trief](https://www.linkedin.com/in/nathaniel-trief-492a70b/)
-Phone: By Request 
----
+ ---
 
 ## About Me 🌟
 ✨ Let's Connect! ✨  
