@@ -3,9 +3,8 @@
 ## Contact Information 📩
 Nathaniel Trief  
 Email: ntrief@gmail.com  
-Phone: 480-235-6831  
 LinkedIn: [Nathaniel Trief](https://www.linkedin.com/in/nathaniel-trief-492a70b/)
-
+Phone: By Request 
 ---
 
 ## About Me 🌟
