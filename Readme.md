@@ -27,6 +27,8 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
   - **Airbnb Data Analysis** leveraging **Pandas, NumPy, Matplotlib, and statistical libraries**.
 - 🌍 **[data-class-project3](https://github.com/ngrief/data-class-project-3.git)**  
   - **Population & Migration Data Analysis** using **chart.js and Leaflet.js**, converted into an **SQL database via MongoDB**.
+  - [📷 Live Demo Map](https://ngrief.github.io/data-class-project-3/index.html)
+  - [📷 Live Demo Charts](https://ngrief.github.io/data-class-project-3/index2.html)
 
 ---
 
