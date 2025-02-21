@@ -42,6 +42,8 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 ## 🛢 SQL Projects 💾
 - 📊 **[Crowdfunding_ETL](https://github.com/ngrief/Crowdfunding_ETL.git)**  
   - Built an **ETL pipeline** to process and store **crowdfunding data** using **Pandas, MySQL, and DataFrames**.
+  - ![Crowdfunding ERD](https://raw.githubusercontent.com/ngrief/Crowdfunding_ETL/main/Crowdfunding%20ERD.png)
+
 - 🏛 **[SQL-Challenge](https://github.com/ngrief/sql-challenge.git)**  
   - Designed a **relational PostgreSQL database**, including an **ERD diagram and table schemas**.
 - 🔍 **[sqlalchemy-challenge](https://github.com/ngrief/sqlalchemy-challenge.git)**  
