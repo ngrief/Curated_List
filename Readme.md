@@ -62,6 +62,8 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
      
 ---
 
+
+
 ## 📊 Tableau Projects 🎨
   ![Tab](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Tab.png)
 
