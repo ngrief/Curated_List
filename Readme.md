@@ -51,13 +51,13 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 ## 🎨 JavaScript Projects 🌐
 - 🦠 **[belly-button-challenge](https://github.com/ngrief/belly-button-challenge.git)**  
   - **Interactive web visualization** exploring **microbial diversity** using **JavaScript, HTML, and CSS**.  
-  - 📷 **Click image for demo**  
+  - 📷 **Click image for web deployment**  
 [![Bio](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Bio.png)](https://ngrief.github.io/belly-button-challenge/)
 
     
 - 🌍 **[leaflet-challenge](https://github.com/ngrief/leaflet-challenge.git)**  
   - **Location-based data visualization of seismic activity** using **JavaScript, GeoJSON, and Leaflet.js**.
-  - 📸- Click for link [![Deployment Preview](https://raw.githubusercontent.com/ngrief/leaflet-challenge/main/image-1.png)](https://ngrief.github.io/leaflet-challenge/)
+  - 📸- Click for link to deployment [![Deployment Preview](https://raw.githubusercontent.com/ngrief/leaflet-challenge/main/image-1.png)](https://ngrief.github.io/leaflet-challenge/)
      
 ---
 
