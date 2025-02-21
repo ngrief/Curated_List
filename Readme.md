@@ -17,7 +17,9 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 ## 🐍 Python Data Exploration 📊
 - 🔥 **[FireAnalyst](https://github.com/ngrief/FireAnalyst.git)**  
   - Analyzing **California Fire Data (1878-2023)** using **Pandas, Matplotlib, and Seaborn**.
-  - ![Seasonality of Fire Occurrences](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/seasonality.png)
+  - ![Seasonality of Fire Occurrences]
+  - [Votes by Party](https://github.com/ngrief/Curated_List/raw/main/Resources/Votes%20by%20Party)
+
 
 - 🗳 **[Election](https://github.com/ngrief/Election.git)**  
   - Investigating **third-party performance in Presidential Elections (1978-2020)** using **Pandas, Matplotlib, and Seaborn**.
