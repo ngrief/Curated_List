@@ -61,9 +61,7 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
   - [![Deployment Preview](https://raw.githubusercontent.com/ngrief/leaflet-challenge/main/image-1.png)](https://ngrief.github.io/leaflet-challenge/)
      
 ---
-
-
-
+---
 ## 📊 Tableau Projects 🎨
   ![Tab](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Tab.png)
 
