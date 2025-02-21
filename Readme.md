@@ -34,6 +34,8 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
   - **Population & Migration Data Analysis** using **chart.js and Leaflet.js**, converted into an **SQL database via MongoDB**.
   - [📷 Live Demo Map](https://ngrief.github.io/data-class-project-3/index.html)
   - [📷 Live Demo Charts](https://ngrief.github.io/data-class-project-3/index2.html)
+  - ![Total Population](https://raw.githubusercontent.com/ngrief/data-class-project-3/main/Images/Total_Population.png)
+
 
 ---
 
