@@ -63,8 +63,6 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 ---
 ---
 ## 📊 Tableau Projects 🎨
-  ![Tab](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Tab.png)
-
 
 🚴‍♂️ **Bike Data Project**  
 🔗 [View the Bike Data Project on Tableau](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)  
