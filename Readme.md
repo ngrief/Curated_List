@@ -21,7 +21,7 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 
 - 🗳 **[Election](https://github.com/ngrief/Election.git)**  
   - Investigating **third-party performance in Presidential Elections (1978-2020)** using **Pandas, Matplotlib, and Seaborn**.
-
+  - [Votes by Party](Resources/Votes%20by%20Party.md)
 ---
 
 ## 🤝 Team Projects 🏆
