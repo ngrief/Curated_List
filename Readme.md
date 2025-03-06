@@ -86,6 +86,16 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 
 ---
 
+## 🚀 Machine Learning
+
+### 🔹 Unsupervised Learning
+- [📊 Crypto Clustering](https://github.com/ngrief/CryptoClustering.git)  
+  Utilized K-Means clustering and PCA to segment cryptocurrencies based on various market metrics. Applied dimensionality reduction to enhance model interpretability.
+
+### 🔹 Supervised Learning
+- [🏦 Credit Risk Classification](https://github.com/ngrief/credit-risk-classification.git)  
+  Developed a machine learning model to assess credit risk using logistic regression and decision trees. Evaluated model performance with various metrics to ensure robustness.
+
 ## 📊 Tableau Projects 🎨
 
 🚴‍♂️ **Bike Data Project**  
