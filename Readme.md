@@ -1,5 +1,6 @@
 # 🚀 Nathaniel Trief's Data Portfolio 📊
-![Hello, let's connect!](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/self.png)
+![Self](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Self.jpg)
+
 ## Contact Information 📩
 Nathaniel Trief  
 Email: ntrief@gmail.com  
