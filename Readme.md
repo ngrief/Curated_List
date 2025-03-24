@@ -50,6 +50,10 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
     - Analyzed the relationship between population density and migration trends.
     - Visualized migration data and population density using interactive maps and charts.
 
+- 🧠 [Early Warning System for At-Risk Students](https://github.com/ngrief/Group-5-Project-4)  
+      Built a predictive model to identify at-risk students using academic, social, and demographic features from Portuguese school data. Employed classification models to optimize student risk prediction.  
+    **Tools:** Python, SQLite3, Scikit-learn  
+
 ---
 
 ## 🛢 SQL Projects 💾
