@@ -94,12 +94,26 @@ I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, pa
 ## 🚀 Machine Learning
 
 ### 🔹 Unsupervised Learning
+
 - [📊 Crypto Clustering](https://github.com/ngrief/CryptoClustering.git)  
-  Utilized K-Means clustering and PCA to segment cryptocurrencies based on various market metrics. Applied dimensionality reduction to enhance model interpretability.
+  Utilized K-Means clustering and PCA to segment cryptocurrencies based on various market metrics. Applied dimensionality reduction to enhance model interpretability.  
+  Explored the clustering behavior of digital assets to uncover relationships between volatility, volume, and market capitalization. Demonstrated unsupervised learning for real-world financial datasets.
 
 ### 🔹 Supervised Learning
+
 - [🏦 Credit Risk Classification](https://github.com/ngrief/credit-risk-classification.git)  
-  Developed a machine learning model to assess credit risk using logistic regression and decision trees. Evaluated model performance with various metrics to ensure robustness.
+  Developed a machine learning model to assess credit risk using logistic regression and decision trees. Evaluated model performance with accuracy, precision, recall, and F1-score to ensure robustness.  
+  Applied model tuning techniques and examined feature importance to enhance prediction accuracy. Delivered insights into borrower behavior and lending risk profiles.
+
+- [🏠 Home Sales Analysis](https://github.com/ngrief/Home_Sales)  
+  Explored housing market trends through data wrangling, visualization, and linear regression modeling to predict home prices. Applied Python, Pandas, Seaborn, and Scikit-learn to analyze key features influencing real estate value.  
+  Built and evaluated predictive models to understand how attributes like square footage, location, and condition affect pricing. Demonstrated a full workflow from raw data to actionable insights using machine learning techniques.
+
+### 🔹 Deep Learning
+
+- [🧬 Neural Network for Employee Attrition](https://github.com/ngrief/deep-learning-challenge.git)  
+  Built a binary classification model using a deep neural network to predict employee attrition based on HR metrics. The dataset included job satisfaction, performance ratings, and compensation data.  
+  Applied TensorFlow and Keras to design and train a sequential model, tuning hyperparameters and leveraging early stopping to improve performance. Evaluated accuracy and loss to guide optimization and prevent overfitting.
 
 ---
 
