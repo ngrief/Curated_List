@@ -12,7 +12,7 @@ LinkedIn: [Nathaniel Trief](https://www.linkedin.com/in/nathaniel-trief-492a70b/
 ✨ Let's Connect! ✨  
 Reach out via LinkedIn, email, or phone for exciting collaboration opportunities, consultations, or to discuss my work in data science and analytics! 🚀  
 
-I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, passionate about uncovering insights through **data analysis, ai, visualization, web scraping, database management, avaScript development, business inteligence, and machine learning**. I'm a motivated team leader looking for a **data-driven role in finance or technology**. 📈💡  
+I'm an **Investment Manager** and an **ASU Bootcamp Certified Data Analyst**, passionate about uncovering insights through **Data Analysis, AI, visualization, Web Scraping, Database management, JavaScript development, Business inteligence, and Machine learning**. I'm a motivated team leader looking for a **data-driven role in finance or technology**. 📈💡  
 
 ---
 
