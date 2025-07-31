@@ -1,5 +1,5 @@
 # 🚀 Nathaniel Trief's Data Portfolio 📊
-![IMG_3024](IMG_3024.JPG)
+![IMG_3024](Resources/IMG_3024.JPG)
 
 ## Contact Information 📩
 Nathaniel Trief  
