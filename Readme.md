@@ -1,5 +1,5 @@
 # 🚀 Nathaniel Trief's Data Portfolio 📊
-![Self](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Self.jpg)
+![IMG_3024](IMG_3024.JPG)
 
 ## Contact Information 📩
 Nathaniel Trief  
