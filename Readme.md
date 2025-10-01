@@ -30,16 +30,27 @@
 
 ## About Me
 
-I'm an **Investment Manager** and **ASU Bootcamp Certified Data Analyst** with a passion for transforming complex datasets into actionable insights. My expertise spans across:
+I'm an **Equity Investment Manager** and **ASU Bootcamp Certified Data Analyst** with a passion for transforming complex datasets into actionable insights.
 
+**Current Roles:**
+- **AI Data Analyst Contractor** - Outlier, Alignerr, Telus International
+- **Equity Investment Manager** - Managing over $5 million in AUM for personal and family clientele
+
+**Professional Journey:**
+
+My unique career path combines deep financial expertise with cutting-edge data science. I began my career in healthcare information systems at **Foothills Radiology Information Services**, where I developed a strong foundation in data management and process optimization. This experience led me to transition into trading and investment management, where I've successfully managed multi-million dollar portfolios.
+
+Recently completing ASU's Data Analytics Bootcamp, I've formalized my technical expertise to complement my financial acumen, creating a powerful combination of domain knowledge and technical skills.
+
+**Core Competencies:**
 - Data Analysis & Visualization
 - Artificial Intelligence & Machine Learning
-- Web Scraping & Automation
+- Financial Modeling & Portfolio Management
 - Database Design & Management
-- Business Intelligence
-- JavaScript Development
+- Business Intelligence & Strategy
+- Full-Stack Development
 
-**Currently seeking:** Data-driven roles in finance or technology where I can leverage my analytical skills and leadership experience to drive business outcomes.
+**Currently seeking:** Data-driven roles in finance or technology where I can leverage my unique blend of investment expertise, analytical skills, and technical capabilities to drive business outcomes.
 
 ---
 
