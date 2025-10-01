@@ -1,12 +1,14 @@
 # Nathaniel Trief's Data Portfolio
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/IMG_3024.JPG" alt="Profile Photo" width="200">
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nathaniel-trief-492a70b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:ntrief@gmail.com"><img src="https://img.shields.io/badge/Email-ntrief@gmail.com-red?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://github.com/ngrief"><img src="https://img.shields.io/badge/GitHub-ngrief-black?style=flat&logo=github" alt="GitHub"></a>
-</div>
+</p>
 
 ---
 
