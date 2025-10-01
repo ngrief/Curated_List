@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Photo](Resources/IMG_3024.JPG)
+![Profile Photo](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/IMG_3024.JPG)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nathaniel-trief-492a70b/)
 [![Email](https://img.shields.io/badge/Email-ntrief@gmail.com-red?style=flat&logo=gmail)](mailto:ntrief@gmail.com)
