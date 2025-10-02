@@ -351,6 +351,60 @@ Interactive **Tableau story** analyzing New York City bike-sharing patterns, use
 
 ---
 
+### Healthcare Analytics Dashboard - Medical Charge Flow Analysis
+
+**Interactive Plotly dashboard** analyzing medical charge patterns across payers, procedures, and geographic regions using anonymized healthcare data.
+
+![Alabama Medical Charges Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Alabama%20dash.png)
+
+**Dashboard Features:**
+- Sankey diagram visualizing medical charge flow from payer through procedure type to city
+- Hierarchical treemap showing charge distribution across procedure categories and payer types
+- Geographic heatmap displaying median charges by city and procedure category
+- Multi-dimensional analysis enabling identification of cost patterns and regional variations
+
+**Technical Implementation:**
+- Built with Plotly for interactive, web-based visualizations
+- Developed from proprietary work projects, converted to template format with synthetic data
+- Data transformation and aggregation using Python and Pandas
+- Responsive design for cross-platform compatibility
+
+**Business Insights:**
+- Identified significant charge variations across geographic regions and payer types
+- Revealed procedure-specific cost patterns for strategic planning
+- Enabled data-driven decision-making for healthcare cost management
+
+**Technologies:** Python, Plotly, Pandas, Data Visualization, Healthcare Analytics
+
+---
+
+### Transportation Analytics Dashboard - Ride-Share Operations
+
+**Interactive Plotly dashboard** analyzing ride-share operational metrics including trip patterns, fare distributions, and demand forecasting using synthetic urban transportation data.
+
+![NYC Uber Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Uber%20dash.png)
+
+**Dashboard Features:**
+- Geographic heatmap showing ride density and pickup concentrations across service areas
+- Product-level fare distribution analysis with statistical summaries
+- Hourly surge probability trends for demand forecasting
+- Key performance indicators tracking total rides, average fares, and distance metrics
+
+**Technical Implementation:**
+- Interactive Plotly visualizations with drill-down capabilities
+- Developed from proprietary work projects, converted to template format with anonymized data
+- Statistical analysis and time-series modeling using Python
+- Real-time data processing pipeline for operational insights
+
+**Business Insights:**
+- Identified peak demand periods for driver allocation optimization
+- Analyzed fare variations across product types and geographic zones
+- Enabled predictive surge pricing strategies based on hourly patterns
+
+**Technologies:** Python, Plotly, Pandas, Statistical Analysis, Geospatial Visualization
+
+---
+
 ## Contact
 
 I'm excited to connect with fellow data enthusiasts, potential employers, and collaborators!

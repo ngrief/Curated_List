@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Intelligence Dashboards - Nathaniel Trief</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .contact-links a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .contact-links a:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .dashboard-section {
+            padding: 40px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .dashboard-section:last-child {
+            border-bottom: none;
+        }
+
+        .dashboard-section h2 {
+            color: #2c3e50;
+            font-size: 2em;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        .dashboard-section .subtitle {
+            color: #7f8c8d;
+            font-size: 1.1em;
+            margin-bottom: 25px;
+            font-style: italic;
+        }
+
+        .dashboard-image {
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 25px;
+            transition: transform 0.3s ease;
+        }
+
+        .dashboard-image:hover {
+            transform: scale(1.02);
+        }
+
+        .features {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .features h3 {
+            color: #2c3e50;
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .features ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .features li {
+            padding: 8px 0;
+            padding-left: 25px;
+            position: relative;
+            color: #34495e;
+        }
+
+        .features li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .tech-badge {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .footer p {
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .header p {
+                font-size: 1em;
+            }
+
+            .dashboard-section {
+                padding: 20px;
+            }
+
+            .contact-links {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Business Intelligence Dashboards</h1>
+            <p>Interactive Data Visualizations by Nathaniel Trief</p>
+            <p style="font-size: 0.95em; margin-top: 15px;">ASU Bootcamp Certified Data Analyst | Equity Investment Manager</p>
+            <div class="contact-links">
+                <a href="https://www.linkedin.com/in/nathaniel-trief-492a70b/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/ngrief" target="_blank">GitHub</a>
+                <a href="mailto:ntrief@gmail.com">Email</a>
+            </div>
+        </div>
+
+        <div class="dashboard-section">
+            <h2>Healthcare Analytics Dashboard</h2>
+            <p class="subtitle">Medical Charge Flow Analysis</p>
+
+            <img src="Resources/Alabama dash.png" alt="Healthcare Analytics Dashboard" class="dashboard-image">
+
+            <div class="features">
+                <h3>Dashboard Overview</h3>
+                <ul>
+                    <li>Sankey diagram visualizing medical charge flow from payer through procedure type to city</li>
+                    <li>Hierarchical treemap showing charge distribution across procedure categories and payer types</li>
+                    <li>Geographic heatmap displaying median charges by city and procedure category</li>
+                    <li>Multi-dimensional analysis enabling identification of cost patterns and regional variations</li>
+                </ul>
+            </div>
+
+            <div class="features">
+                <h3>Technical Implementation</h3>
+                <ul>
+                    <li>Built with Plotly for interactive, web-based visualizations</li>
+                    <li>Developed from proprietary work projects, converted to template format with synthetic data</li>
+                    <li>Data transformation and aggregation using Python and Pandas</li>
+                    <li>Responsive design for cross-platform compatibility</li>
+                </ul>
+            </div>
+
+            <div class="tech-stack">
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">Plotly</span>
+                <span class="tech-badge">Pandas</span>
+                <span class="tech-badge">Data Visualization</span>
+                <span class="tech-badge">Healthcare Analytics</span>
+            </div>
+        </div>
+
+        <div class="dashboard-section">
+            <h2>Transportation Analytics Dashboard</h2>
+            <p class="subtitle">Ride-Share Operations Analysis</p>
+
+            <img src="Resources/Uber dash.png" alt="Transportation Analytics Dashboard" class="dashboard-image">
+
+            <div class="features">
+                <h3>Dashboard Overview</h3>
+                <ul>
+                    <li>Geographic heatmap showing ride density and pickup concentrations across service areas</li>
+                    <li>Product-level fare distribution analysis with statistical summaries</li>
+                    <li>Hourly surge probability trends for demand forecasting</li>
+                    <li>Key performance indicators tracking total rides, average fares, and distance metrics</li>
+                </ul>
+            </div>
+
+            <div class="features">
+                <h3>Technical Implementation</h3>
+                <ul>
+                    <li>Interactive Plotly visualizations with drill-down capabilities</li>
+                    <li>Developed from proprietary work projects, converted to template format with anonymized data</li>
+                    <li>Statistical analysis and time-series modeling using Python</li>
+                    <li>Real-time data processing pipeline for operational insights</li>
+                </ul>
+            </div>
+
+            <div class="tech-stack">
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">Plotly</span>
+                <span class="tech-badge">Pandas</span>
+                <span class="tech-badge">Statistical Analysis</span>
+                <span class="tech-badge">Geospatial Visualization</span>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p><strong>Note:</strong> These dashboards were developed from proprietary work projects protected under NDA. They have been converted to template format and populated with synthetic data to demonstrate technical capabilities while maintaining confidentiality.</p>
+            <p style="margin-top: 15px;">© 2025 Nathaniel Trief | Data Analytics Portfolio</p>
+        </div>
+    </div>
+</body>
+</html>
