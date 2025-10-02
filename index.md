@@ -15,6 +15,7 @@
 ## Table of Contents
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
+- [Tableau & Business Intelligence](#tableau--business-intelligence)
 - [Python Data Exploration](#python-data-exploration)
 - [Team Projects](#team-projects)
 - [SQL & Database Projects](#sql--database-projects)
@@ -23,7 +24,6 @@
   - [Unsupervised Learning](#unsupervised-learning)
   - [Supervised Learning](#supervised-learning)
   - [Deep Learning](#deep-learning)
-- [Tableau & Business Intelligence](#tableau--business-intelligence)
 - [Contact](#contact)
 
 ---
@@ -65,6 +65,89 @@ Recently completing ASU's Data Analytics Bootcamp, I've formalized my technical 
 | **Data Visualization** | Tableau, D3.js, Chart.js, Leaflet.js, Plotly |
 | **Web Development** | HTML, CSS, Flask, RESTful APIs, GeoJSON |
 | **Tools & Platforms** | Git, Jupyter Notebooks, VS Code, GitHub Pages |
+
+---
+
+## Tableau & Business Intelligence
+
+### Healthcare Analytics Dashboard - Medical Charge Flow Analysis
+
+**Interactive Plotly dashboard** analyzing medical charge patterns across payers, procedures, and geographic regions using anonymized healthcare data.
+
+![Alabama Medical Charges Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Alabama%20dash.png)
+
+**Dashboard Features:**
+- Sankey diagram visualizing medical charge flow from payer through procedure type to city
+- Hierarchical treemap showing charge distribution across procedure categories and payer types
+- Geographic heatmap displaying median charges by city and procedure category
+- Multi-dimensional analysis enabling identification of cost patterns and regional variations
+
+**Technical Implementation:**
+- Built with Plotly for interactive, web-based visualizations
+- Developed from proprietary work projects, converted to template format with synthetic data
+- Data transformation and aggregation using Python and Pandas
+- Responsive design for cross-platform compatibility
+
+**Business Insights:**
+- Identified significant charge variations across geographic regions and payer types
+- Revealed procedure-specific cost patterns for strategic planning
+- Enabled data-driven decision-making for healthcare cost management
+
+**Technologies:** Python, Plotly, Pandas, Data Visualization, Healthcare Analytics
+
+---
+
+### Transportation Analytics Dashboard - Ride-Share Operations
+
+**Interactive Plotly dashboard** analyzing ride-share operational metrics including trip patterns, fare distributions, and demand forecasting using synthetic urban transportation data.
+
+![NYC Uber Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Uber%20dash.png)
+
+**Dashboard Features:**
+- Geographic heatmap showing ride density and pickup concentrations across service areas
+- Product-level fare distribution analysis with statistical summaries
+- Hourly surge probability trends for demand forecasting
+- Key performance indicators tracking total rides, average fares, and distance metrics
+
+**Technical Implementation:**
+- Interactive Plotly visualizations with drill-down capabilities
+- Developed from proprietary work projects, converted to template format with anonymized data
+- Statistical analysis and time-series modeling using Python
+- Real-time data processing pipeline for operational insights
+
+**Business Insights:**
+- Identified peak demand periods for driver allocation optimization
+- Analyzed fare variations across product types and geographic zones
+- Enabled predictive surge pricing strategies based on hourly patterns
+
+**Technologies:** Python, Plotly, Pandas, Statistical Analysis, Geospatial Visualization
+
+---
+
+### NYC Citi Bike Analytics Dashboard
+[![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange?style=flat&logo=tableau)](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)
+
+Interactive **Tableau story** analyzing New York City bike-sharing patterns, user demographics, and operational insights.
+
+**Dashboard Features:**
+- Geographic heatmaps showing popular stations and routes
+- Time-series analysis of ridership patterns (hourly, daily, seasonal)
+- User demographic breakdowns (subscribers vs. customers, age groups)
+- Trip duration distributions and distance analysis
+- Peak usage time identification for operational planning
+
+**Data Pipeline:**
+- Python data cleaning and preprocessing of 1M+ trip records
+- Feature engineering for time-based analysis
+- Aggregation and statistical calculations
+- Export to Tableau-optimized format
+
+**Business Insights:**
+- Identified peak commute times for station capacity planning
+- Analyzed seasonal trends to optimize bike redistribution
+- Segmented user types for targeted marketing strategies
+
+**Technologies:** Tableau Public, Python, Pandas, Data Visualization, Storytelling
 
 ---
 
@@ -319,89 +402,6 @@ Designed and trained a **deep neural network** to predict employee attrition usi
 **Business Application:** Model enables HR departments to identify at-risk employees early, allowing for proactive retention strategies and reducing turnover costs.
 
 **Technologies:** Python, TensorFlow, Keras, Neural Networks, Deep Learning, Pandas
-
----
-
-## Tableau & Business Intelligence
-
-### NYC Citi Bike Analytics Dashboard
-[![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange?style=flat&logo=tableau)](https://public.tableau.com/views/BikeDataProject_17394900320310/Story1)
-
-Interactive **Tableau story** analyzing New York City bike-sharing patterns, user demographics, and operational insights.
-
-**Dashboard Features:**
-- Geographic heatmaps showing popular stations and routes
-- Time-series analysis of ridership patterns (hourly, daily, seasonal)
-- User demographic breakdowns (subscribers vs. customers, age groups)
-- Trip duration distributions and distance analysis
-- Peak usage time identification for operational planning
-
-**Data Pipeline:**
-- Python data cleaning and preprocessing of 1M+ trip records
-- Feature engineering for time-based analysis
-- Aggregation and statistical calculations
-- Export to Tableau-optimized format
-
-**Business Insights:**
-- Identified peak commute times for station capacity planning
-- Analyzed seasonal trends to optimize bike redistribution
-- Segmented user types for targeted marketing strategies
-
-**Technologies:** Tableau Public, Python, Pandas, Data Visualization, Storytelling
-
----
-
-### Healthcare Analytics Dashboard - Medical Charge Flow Analysis
-
-**Interactive Plotly dashboard** analyzing medical charge patterns across payers, procedures, and geographic regions using anonymized healthcare data.
-
-![Alabama Medical Charges Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Alabama%20dash.png)
-
-**Dashboard Features:**
-- Sankey diagram visualizing medical charge flow from payer through procedure type to city
-- Hierarchical treemap showing charge distribution across procedure categories and payer types
-- Geographic heatmap displaying median charges by city and procedure category
-- Multi-dimensional analysis enabling identification of cost patterns and regional variations
-
-**Technical Implementation:**
-- Built with Plotly for interactive, web-based visualizations
-- Developed from proprietary work projects, converted to template format with synthetic data
-- Data transformation and aggregation using Python and Pandas
-- Responsive design for cross-platform compatibility
-
-**Business Insights:**
-- Identified significant charge variations across geographic regions and payer types
-- Revealed procedure-specific cost patterns for strategic planning
-- Enabled data-driven decision-making for healthcare cost management
-
-**Technologies:** Python, Plotly, Pandas, Data Visualization, Healthcare Analytics
-
----
-
-### Transportation Analytics Dashboard - Ride-Share Operations
-
-**Interactive Plotly dashboard** analyzing ride-share operational metrics including trip patterns, fare distributions, and demand forecasting using synthetic urban transportation data.
-
-![NYC Uber Dashboard](https://raw.githubusercontent.com/ngrief/Curated_List/main/Resources/Uber%20dash.png)
-
-**Dashboard Features:**
-- Geographic heatmap showing ride density and pickup concentrations across service areas
-- Product-level fare distribution analysis with statistical summaries
-- Hourly surge probability trends for demand forecasting
-- Key performance indicators tracking total rides, average fares, and distance metrics
-
-**Technical Implementation:**
-- Interactive Plotly visualizations with drill-down capabilities
-- Developed from proprietary work projects, converted to template format with anonymized data
-- Statistical analysis and time-series modeling using Python
-- Real-time data processing pipeline for operational insights
-
-**Business Insights:**
-- Identified peak demand periods for driver allocation optimization
-- Analyzed fare variations across product types and geographic zones
-- Enabled predictive surge pricing strategies based on hourly patterns
-
-**Technologies:** Python, Plotly, Pandas, Statistical Analysis, Geospatial Visualization
 
 ---
 
